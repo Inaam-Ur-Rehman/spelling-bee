@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Support from "./Support.vue";
-const email = "conor.sheehan.dev@gmail.com";
+const email = "inaamurrehman343@gmail.com";
 </script>
 
 <template>
